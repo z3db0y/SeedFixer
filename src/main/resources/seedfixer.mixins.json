@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.z3db0y.plugin.mixins",
+  "mixins": [],
+  "client": [],
+  "server": [
+    "WorldMixin",
+    "ServerWorldMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

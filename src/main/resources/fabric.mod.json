@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "version": "0.0.1",
+  "id": "seedfixer",
+  "name": "Seed Fixer",
+  "mixins": [
+    "seedfixer.mixins.json"
+  ],
+  "entrypoints": {
+    "server": ["com.z3db0y.plugin.Entry"]
+  }
+}
